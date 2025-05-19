@@ -41,6 +41,7 @@ The `NefiaiStaking` contract is a secure and gas-efficient staking mechanism for
 | Minimum Stake         | 1 NEFIAI (in `1e18` decimals)                                                           |
 | Reward Updater        | Externally callable role to advance reward cycle                                        |
 | Default Referrer      | `0xA317d8018E68871918f474f2042fbA50Cd75c844` (used if user doesn’t register a referrer) |
+| Creators              |  Mayuresh Pawar & Monish Nagre                                                          |
 
 ---
 
